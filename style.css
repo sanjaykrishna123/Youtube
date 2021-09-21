@@ -1,0 +1,367 @@
+.body{
+    margin:0;
+}
+.header{
+    width:100%;
+    height:50px;
+    border:darkblue;
+}
+.bar{
+    width: 0px;
+    margin-left: 30px;
+    height:0px;
+}
+.search{
+    margin-left: 400px;
+    margin-top: 0px;
+    width: 500px;
+    height: 25px;
+}
+.youtube{
+    width:130px;
+    margin-top:-20px;
+}
+.button{
+    width: 38px;
+    height: 31px;
+    margin-left: -5px;
+    background-color: rgb(255, 255, 255);
+    cursor:pointer;
+}
+.button:hover{
+    background-color:rgb(230, 230, 230) ;
+}
+.mic{
+    margin-left:980px;
+    float:left;
+    margin-top:-23px;
+}
+.video{
+    float:left;
+    margin-left: 1150px;
+    margin-top: -22px;
+}
+.box{
+    margin-left: 1208px;
+    float: left;
+    margin-top: -22px;
+}
+.notifications{
+    font-size: 20px;
+    margin-left: 1265px;
+    float: left;
+    margin-top: -24px;
+}
+.line{
+    margin-left: 226px;
+}
+.home{
+    margin-left: 25px;
+    margin-top: 20px;
+    font-size: 31px;
+}
+.Home{
+    margin-top: -25px;
+    margin-left: 73px;
+}
+.compass{
+    margin-left: 25px;
+    font-size: 31px;
+}
+.explore{
+    margin-left: 70px;
+    margin-top: -30px;
+}
+.subscription{
+    width: 38px;
+    margin-left: 20px;
+}
+.Subscription{
+    margin-left: 70px;
+    margin-top: -34px;
+}
+.line2{
+    width: 225px;
+    margin-left: 0px;
+}
+.library{
+    margin-left: 20px;
+    width: 40px;
+}
+.Library{
+    margin-left: 70px;
+    margin-top: -37px;
+}
+.history{
+    margin-left: 15px;
+}
+.History{
+    margin-left: 70px;
+    margin-top: -40px;
+}
+.videos{
+    margin-left: 15px;
+}
+.Videos{
+    margin-left: 70px;
+    margin-top: -40px;
+}
+.watch{
+    margin-left:15px;
+}
+.later{
+    margin-left:70px;
+    margin-top:-40px;
+}
+.like{
+    margin-left:15px;
+}
+.Like{
+    margin-left:70px;
+    margin-top:-40px;
+}
+.line3{
+    width:225px;
+    margin-left:0px;
+}
+.s{
+    margin-left:15px;
+}
+.all{
+    border-radius: 36px;
+    background-color: black;
+    color: white;
+    margin-left: 240px;
+    float: left;
+    margin-top: -480px;
+    font-size: 15px;
+    width: 45px;
+    height: 32px;
+    cursor:pointer;
+}
+.css{
+    border-radius: 36px;
+    background-color: #f1f1f1;
+    margin-left: 300px;
+    float: left;
+    margin-top: -480px;
+    width: 46px;
+    font-size: 17px;
+    height: 33px;
+    cursor: pointer;
+}
+.css:hover{
+    background-color:rgb(230, 230, 230) ;
+}
+.sports{
+    border-radius: 36px;
+    background-color: #f1f1f1;
+    margin-left: 363px;
+    float: left;
+    margin-top: -479px;
+    width: 69px;
+    font-size: 18px;
+    height: 31px;
+    cursor: pointer;
+}
+.sports:hover{
+    background-color:rgb(230, 230, 230) ;
+}
+.trailers{
+    border-radius: 36px;
+    background-color: #f1f1f1;
+    cursor: pointer;
+    margin-left: 445px;
+    float: left;
+    margin-top: -479px;
+    height: 31px;
+    font-size: 20px;
+    width: 90px;
+}
+.trailers:hover{
+    background-color:rgb(230, 230, 230) ;
+}
+.comedies{
+    border-radius: 36px;
+    background-color: #f1f1f1;
+    margin-left: 550px;
+    float: left;
+    margin-top: -478px;
+    font-size: 19px;
+    height: 30px;
+    cursor:pointer;
+}
+.comedies:hover{
+    background-color:rgb(230, 230, 230) ;
+}
+.live{
+    width: 50px;
+    margin-top: -477px;
+    margin-left: 670px;
+    border-radius: 36px;
+    float: left;
+    height: 28px;
+    font-size: 18px;
+    width: 54px;
+    cursor:pointer;
+}
+.live:hover{
+    background-color:rgb(230, 230, 230) ;
+}
+.news{
+    border-radius: 36px;
+    cursor:pointer;
+    margin-left: 743px;
+    float: left;
+    margin-top: -478px;
+    height: 29px;
+    width: 68px;
+    font-size: 17px;
+}
+.news:hover{
+    background-color:rgb(230, 230, 230) ;
+}
+.music{
+    border-radius: 36px;
+    cursor: pointer;
+    margin-left: 830px;
+    float: left;
+    margin-top: -477px;
+    font-size: 18px;
+    width: 70px;
+    height: 28px;
+}
+.music:hover{
+    background-color:rgb(230, 230, 230) ;
+}
+.series{
+    border-radius: 36px;
+    cursor: pointer;
+    margin-left: 921px;
+    float: left;
+    margin-top: -477px;
+    font-size: 17px;
+    height: 29px;
+    width: 112px;
+}
+.series:hover{
+    background-color:rgb(230, 230, 230) ;
+}
+.games{
+    border-radius: 36px;
+    cursor: pointer;
+    margin-left: 1050px;
+    float: left;
+    margin-top: -477px;
+    font-size: 17px;
+    width: 78px;
+    height: 29px;
+}
+.games:hover{
+    background-color:rgb(230, 230, 230) ;
+}
+.mixes{
+    height: 30px;
+    border-radius: 36px;
+    cursor: pointer;
+    margin-left: 1149px;
+    float: left;
+    margin-top: -478px;
+    font-size: 18px;
+    width: 71px;
+}
+.mixes:hover{
+    background-color:rgb(230, 230, 230) ;
+}
+.movies{
+    border-radius: 36px;
+    cursor: pointer;
+    margin-left: 1237px;
+    float: left;
+    margin-top: -479px;
+    font-size: 18px;
+    width: 79px;
+    height: 30px;
+}
+.movies:hover{
+    background-color:rgb(230, 230, 230) ;
+}
+.angle{
+    font-size: 30px;
+    margin-left: 1326px;
+    float: left;
+    margin-top: -479px;
+    cursor:pointer;
+}
+.line4{
+    margin-left: 226px;
+    margin-top:-505px;
+}
+.center{
+    width: 1118px;
+    height: 770px;
+    margin-left: 225px;
+    margin-top: -8px;
+}
+.video1{
+    width: 350px;
+    height: 240px;
+}
+.ripper{
+    width: 350px;
+    height: 185px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.footer{
+    width:350px;
+    height:55px;
+    margin-top: -75px;
+    cursor: pointer;
+}
+.karikku{
+    margin-left:65px;
+    font-size: 20px;
+    margin-top: 133px;
+}
+.video2{
+    width: 350px;
+    height: 240px;
+    margin-left: 360px;
+    margin-top: -250px;
+}
+.sps{
+    margin-left:65px;
+    font-size: 20px;
+    margin-top: -5px;
+}
+.video3{
+    width: 350px;
+    height: 240px;
+    margin-left: 720px;
+    margin-top: -240px;
+}.video4{
+    float: left;
+    margin-top: -60px;
+}
+.video5{
+    float: right;
+    margin-top: -58px;
+    margin-right: 43px;
+}
+.video6{
+    margin-left: 10px;
+    margin-top: -49px;
+    width: 334px;
+}
+.video8{
+    float: right;
+    margin-right: 392px;
+    margin-top: -258px;
+}
+.video9{
+    float: right;
+    margin-left: 28px;
+    margin-right: 19px;
+    margin-top: -267px;
+}
